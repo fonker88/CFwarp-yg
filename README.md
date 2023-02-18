@@ -1,18 +1,12 @@
-### WARP多功能一键脚本
+### CFwarp脚本相关说明请查看[甬哥博客](https://ygkkk.blogspot.com/2022/09/gitlabcfwarpwarpwarp.html)
 
-### 支持纯IPV4、纯IPV6的VPS直接安装，主流linux系统均支持
+------------------------------------------------------------------------------------------------------------------------------
 
-### 支持warp-go与wgcf两种warp内核形式切换
-
-### 相关说明及注意点请查看[博客说明](https://www.youtube.com/playlist?list=PLMgly2AulGG-WqPXPkHlqWVSfQ3XjHNw8)
-
-### 一键脚本：
+#### 一键脚本：
 ```
 wget -N --no-check-certificate https://gitlab.com/rwkgyg/CFwarp/raw/main/CFwarp.sh && bash CFwarp.sh
 ```
-
-![30beb4b4c407d67784a123895860595](https://user-images.githubusercontent.com/121604513/213330968-1aa5c01a-b86e-4a4c-ae74-76c00a8033b2.png)
-
-
-### 脚本源码备份[Gitlab地址](https://gitlab.com/rwkgyg/CFwarp)
-
+----------------------------------------------------------------------------------------------------------------------
+#### 感谢WGCF源项目代码地址：https://github.com/ViRb3/wgcf
+#### 感谢CoiaPrant，WARP-GO源项目代码地址：https://gitlab.com/ProjectWARP/warp-go
+#### 相关功能参考来源： [P3terx](https://github.com/P3TERX/warp.sh)、[fscarmen](https://github.com/fscarmen/warp)
